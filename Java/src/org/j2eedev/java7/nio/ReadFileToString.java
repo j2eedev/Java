@@ -2,7 +2,11 @@ package org.j2eedev.java7.nio;
 import static java.lang.System.out;
 import static java.nio.file.Files.readAllBytes;
 import static java.nio.file.Paths.get;
-
+/**
+ * 
+ * @author Umashankar
+ * http://j2eedev.org
+ */
 public class ReadFileToString {
 
 	/**
